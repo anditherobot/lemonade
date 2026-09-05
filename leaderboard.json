@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-09-05T02:23:08.995614+00:00",
+  "run_id": "33462321674",
+  "run_url": "https://github.com/anditherobot/lemonade/actions/runs/33462321674",
+  "repo": "anditherobot/lemonade",
+  "repo_url": "https://github.com/anditherobot/lemonade",
+  "actions_url": "https://github.com/anditherobot/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "4ed0ce19abd806727453c1d35bc82702f392a380",
+  "lemonade_version": null,
+  "by_model_scenario": {},
+  "history": {}
+}
